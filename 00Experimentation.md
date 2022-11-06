@@ -195,6 +195,6 @@ Google Maps allows you to export [your data](https://myaccount.google.com/yourda
 
 *Example Commands*
 
-* Use cat command as pager for all commands, instead of less
+* Use `cat` command as pager for all commands, instead of `less`
     > git config --global core.pager cat
 * 
